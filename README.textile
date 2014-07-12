@@ -1,0 +1,3 @@
+Detailed statistic about traffic accidents in Czech republic.
+
+*TODO:* Use POST to fetch entire history for the year.
