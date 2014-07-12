@@ -1,3 +1,6 @@
 Detailed statistic about traffic accidents in Czech republic.
 
+Forked from https://classic.scraperwiki.com/scrapers/statistics_of_traffic_accidents/
+by Marek Mahut
+
 *TODO:* Use POST to fetch entire history for the year.
