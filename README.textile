@@ -3,4 +3,8 @@ Detailed statistic about traffic accidents in Czech republic.
 Forked from https://classic.scraperwiki.com/scrapers/statistics_of_traffic_accidents/
 by Marek Mahut
 
+The script gets total statistics for each day. Not for day from database, but for
+actual day. This creates inconsistant informations.
+Use statistics_of_traffic_accidents_all instead.
+
 *TODO:* Use POST to fetch entire history for the year.
